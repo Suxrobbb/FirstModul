@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Services\\StudentServices.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\FirstModul\\8 -dars uyga vazifa\\Services\\StudentServices.cs",
               "RelativeToolTip": "Services\\StudentServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T19:51:07.212Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T19:27:45.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T19:27:45.565Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T18:15:24.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T18:15:24.815Z"
             }
           ]
         }

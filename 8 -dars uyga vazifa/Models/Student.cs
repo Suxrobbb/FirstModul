@@ -2,19 +2,12 @@
 
 internal class Student
 {
-    public string StudentId { get; set; }
+    public Guid StudentId { get; set; }
 
     public string StudentName { get; set; }
 
-    public string StudentAge { get; set; }
+    public int StudentAge { get; set; }
 
     public string StudentPhoneNumber { get; set; }
-
-
-
-
-
-
-
 
 }
