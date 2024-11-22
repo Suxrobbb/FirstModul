@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("8 -dars uyga vazifa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8294dfaacb91551b59790f2d62dbddefe06f0293")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebbc41a07e720ecc89f2077586b702fe6f0a100f")]
 [assembly: System.Reflection.AssemblyProductAttribute("8 -dars uyga vazifa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("8 -dars uyga vazifa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
