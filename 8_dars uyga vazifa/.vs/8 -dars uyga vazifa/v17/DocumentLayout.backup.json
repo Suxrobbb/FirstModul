@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\PDP C#\\FirstModul\\8_dars uyga vazifa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A84A3FC5-5C46-4881-902B-624D1C3704A7}|8 -dars uyga vazifa.csproj|c:\\users\\user\\documents\\pdp c#\\firstmodul\\8_dars uyga vazifa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A84A3FC5-5C46-4881-902B-624D1C3704A7}|8 -dars uyga vazifa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A84A3FC5-5C46-4881-902B-624D1C3704A7}|8 -dars uyga vazifa.csproj|c:\\users\\user\\documents\\pdp c#\\firstmodul\\8_dars uyga vazifa\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A84A3FC5-5C46-4881-902B-624D1C3704A7}|8 -dars uyga vazifa.csproj|solutionrelative:services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84A3FC5-5C46-4881-902B-624D1C3704A7}|8 -dars uyga vazifa.csproj|c:\\users\\user\\documents\\pdp c#\\firstmodul\\8_dars uyga vazifa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84A3FC5-5C46-4881-902B-624D1C3704A7}|8 -dars uyga vazifa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A84A3FC5-5C46-4881-902B-624D1C3704A7}|8 -dars uyga vazifa.csproj|c:\\users\\user\\documents\\pdp c#\\firstmodul\\8_dars uyga vazifa\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,17 +33,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CarService.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\FirstModul\\8_dars uyga vazifa\\Services\\CarService.cs",
               "RelativeDocumentMoniker": "Services\\CarService.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\FirstModul\\8_dars uyga vazifa\\Services\\CarService.cs",
               "RelativeToolTip": "Services\\CarService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T18:41:28.086Z",
               "EditorCaption": ""
@@ -58,8 +58,7 @@
               "RelativeToolTip": "Models\\Car.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T18:41:10.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T18:41:10.962Z"
             },
             {
               "$type": "Document",
@@ -83,8 +82,7 @@
               "RelativeToolTip": "Services\\StudentServices.cs",
               "ViewState": "AgIAAGQAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T19:51:07.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T19:51:07.212Z"
             },
             {
               "$type": "Document",
@@ -96,18 +94,17 @@
               "RelativeToolTip": "Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T19:27:45.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T19:27:45.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\PDP C#\\FirstModul\\8_dars uyga vazifa\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\FirstModul\\8_dars uyga vazifa\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\Documents\\PDP C#\\FirstModul\\8_dars uyga vazifa\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAgwKYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T18:15:24.815Z",
               "EditorCaption": ""

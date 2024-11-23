@@ -18,12 +18,12 @@ internal class CarService
         return car;
     }
 
-    public bool DeleteCar(Guid studentId)
+    public bool DeleteCar(Guid carId)
     {
         var exists = false;
         foreach (var car in cars)
         {
-            if (car.CarId == studentId)
+            if (car.CarId == carId)
             {
                 cars.Remove(car);
                 exists = true;
