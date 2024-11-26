@@ -75,17 +75,17 @@ public class EventService
     public List<Event> GetEventsByLocation(string location)
     {
         var eventsByLocation = new List<Event>();
-        foreach (var _event in ListedEvents)
+        foreach (var chek in ListedEvents)
         {
-            if (_event.Location == location)
+            if (chek.Location == location)
             {
-                eventsByLocation.Add(_event);
+                eventsByLocation.Add(chek);
             }
         }
 
         return eventsByLocation;
     }
-    /// Get Popular Event
+
     public Event GetPopularEvent()
     {
         var mostPopularevent = new Event();
@@ -99,7 +99,7 @@ public class EventService
 
         return mostPopularevent;
     }
-    /// Get Max Tagged Event
+ 
     public Event GetMaxTaggedEvent()
     {
         var mostTaggedEvent = new Event();
@@ -113,7 +113,7 @@ public class EventService
 
         return mostTaggedEvent;
     }
-    
+
     public bool AddPersonToEvent(Guid Id, string person)
     {
         var EventFromDB = GetById(Id);
@@ -127,7 +127,7 @@ public class EventService
     }
 
 }
- 
 
-    
+
+
 
