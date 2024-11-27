@@ -127,7 +127,3 @@ public class EventService
     }
 
 }
-
-
-
-
